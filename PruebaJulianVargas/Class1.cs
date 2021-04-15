@@ -9,5 +9,6 @@ namespace PruebaJulianVargas
     {
 
         string test1 = "hola mundo";
+        string test2 = "hola mundo 222222222222222222222";
     }
 }
