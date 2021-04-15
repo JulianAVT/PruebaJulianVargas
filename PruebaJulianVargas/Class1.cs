@@ -7,5 +7,7 @@ namespace PruebaJulianVargas
 {
     public class Class1
     {
+
+        string test1 = "hola mundo";
     }
 }
